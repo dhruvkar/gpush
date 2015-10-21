@@ -1,0 +1,4 @@
+*.pyc
+config.py
+*.p12
+*_old.py
